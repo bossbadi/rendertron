@@ -2,4 +2,4 @@
 uri = "heroku/nodejs"
 
 [[build.buildpacks]]
-uri = "github.com/heroku-buildpack-google-chrome"
+uri = "heroku/google-chrome"
